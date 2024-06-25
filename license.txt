@@ -1,0 +1,11 @@
+Model Information:
+* title:	"Maenad", processed
+* source:	https://sketchfab.com/3d-models/maenad-processed-1238c04b2dc84e0fa6a698c52dba4ae2
+* author:	plasmaernst (https://sketchfab.com/plasmaernst)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on ""Maenad", processed" (https://sketchfab.com/3d-models/maenad-processed-1238c04b2dc84e0fa6a698c52dba4ae2) by plasmaernst (https://sketchfab.com/plasmaernst) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
